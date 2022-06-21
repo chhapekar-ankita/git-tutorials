@@ -1,3 +1,2 @@
-error.log.txt
-unused.txt.txt
-error2
+error.log
+unused.txt
